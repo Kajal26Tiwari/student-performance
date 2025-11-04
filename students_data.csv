@@ -1,0 +1,101 @@
+Student_ID,Name,Age,Gender,Course,Marks,Attendance (%),City,Grade
+1,Ananya Mehta,18,Male,AI & ML,91,82,Ahmedabad,B+
+2,Nikhil Singh,23,Male,Data Science,62,87,Pune,A+
+3,Neha Kapoor,21,Female,Cyber Security,60,71,Kolkata,A+
+4,Diya Pillai,21,Female,Data Analytics,89,96,Hyderabad,B
+5,Dev Singh,24,Male,Cloud Computing,82,83,Pune,A+
+6,Raj Nair,20,Male,Web Dev,57,86,Kochi,B-
+7,Aditya Mehta,24,Male,Data Science,81,77,Bengaluru,B
+8,Dev Patel,19,Male,AI & ML,85,95,Ahmedabad,A
+9,Diya Verma,24,Female,Cloud Computing,87,98,Jaipur,C
+10,Aditya Mehta,24,Female,Cloud Computing,53,98,Jaipur,A
+11,Arjun Singh,25,Female,Cyber Security,58,77,Delhi,B-
+12,Isha Verma,22,Male,Data Analytics,53,98,Ahmedabad,B-
+13,Karan Chopra,20,Male,Web Dev,75,87,Kochi,B
+14,Diya Iyer,21,Female,Cyber Security,84,76,Jaipur,B
+15,Diya Kaur,24,Male,AI & ML,57,99,Bengaluru,A
+16,Isha Thakur,24,Male,Data Science,97,71,Kochi,B+
+17,Sneha Gupta,20,Male,AI & ML,56,87,Chennai,B+
+18,Meera Thakur,25,Female,Data Analytics,79,71,Jaipur,A
+19,Rohan Sharma,18,Male,AI & ML,55,72,Delhi,A
+20,Meera Malhotra,25,Female,Cloud Computing,68,89,Mumbai,B-
+21,Rahul Thakur,24,Male,Cloud Computing,99,70,Delhi,C
+22,Meera Thakur,25,Female,Cloud Computing,52,91,Pune,B
+23,Arjun Bose,19,Female,Cyber Security,64,74,Mumbai,A
+24,Tanvi Chopra,21,Female,Cyber Security,97,83,Chennai,B+
+25,Meera Reddy,22,Female,Cyber Security,85,70,Kolkata,A
+26,Simran Nair,24,Male,Cloud Computing,73,94,Kochi,C
+27,Priya Chopra,25,Male,Web Dev,64,79,Pune,B
+28,Nikhil Patel,20,Male,Data Science,91,89,Jaipur,A+
+29,Priya Nair,20,Female,Cyber Security,58,87,Kochi,A+
+30,Aditya Iyer,21,Female,Data Analytics,66,78,Jaipur,B+
+31,Tanvi Kapoor,25,Male,Web Dev,79,87,Kochi,A
+32,Priya Banerjee,23,Female,AI & ML,57,98,Delhi,B+
+33,Sneha Gupta,19,Male,Cloud Computing,60,97,Delhi,B-
+34,Aarav Nair,18,Male,Web Dev,76,95,Chennai,B
+35,Dev Banerjee,18,Male,Data Analytics,83,85,Kolkata,B
+36,Priya Sharma,25,Male,Data Analytics,63,93,Mumbai,A
+37,Rahul Das,18,Female,Web Dev,97,95,Pune,A+
+38,Nikhil Mehta,18,Male,Data Science,84,87,Kolkata,B+
+39,Simran Patel,22,Male,Cloud Computing,68,98,Kolkata,A+
+40,Aditya Das,20,Male,Data Analytics,93,85,Kochi,C
+41,Nikhil Sharma,21,Male,Web Dev,74,90,Pune,A+
+42,Priya Kapoor,23,Female,Data Science,96,100,Kolkata,B+
+43,Ishita Verma,18,Male,AI & ML,72,99,Kolkata,B+
+44,Raj Gupta,21,Female,Cloud Computing,64,77,Jaipur,A+
+45,Diya Singh,23,Male,AI & ML,59,84,Chennai,B
+46,Ananya Kapoor,25,Female,Data Analytics,63,92,Ahmedabad,A
+47,Aditya Singh,23,Male,Data Analytics,98,75,Kolkata,B
+48,Manav Gupta,21,Male,Data Science,95,75,Jaipur,C
+49,Isha Pillai,20,Female,AI & ML,56,94,Kochi,C
+50,Rohan Mehta,22,Male,Web Dev,75,75,Bengaluru,A+
+51,Isha Pillai,23,Female,Cyber Security,81,99,Mumbai,B+
+52,Ishita Sharma,19,Female,Data Analytics,52,91,Mumbai,A+
+53,Arjun Malhotra,23,Female,Cyber Security,97,79,Jaipur,B-
+54,Arjun Mehta,23,Male,Cloud Computing,55,83,Kolkata,B-
+55,Dev Gupta,23,Female,Web Dev,92,98,Ahmedabad,B+
+56,Diya Gupta,20,Male,AI & ML,77,76,Hyderabad,B
+57,Aditya Mehta,19,Female,Web Dev,93,96,Ahmedabad,B-
+58,Rahul Nair,25,Female,Data Analytics,66,73,Kochi,B-
+59,Meera Mehta,19,Female,AI & ML,79,86,Kochi,A+
+60,Manav Patel,21,Female,Data Analytics,61,73,Jaipur,B-
+61,Tanvi Patel,21,Male,Web Dev,67,77,Jaipur,A+
+62,Aarav Iyer,22,Male,Cyber Security,69,92,Bengaluru,A+
+63,Raj Reddy,21,Female,Data Analytics,66,80,Pune,B-
+64,Manav Das,24,Female,AI & ML,66,71,Ahmedabad,B+
+65,Simran Verma,24,Female,Data Analytics,84,84,Jaipur,B+
+66,Neha Pillai,25,Female,AI & ML,76,84,Jaipur,B
+67,Meera Sharma,19,Male,Web Dev,67,74,Kolkata,B
+68,Aditya Banerjee,21,Male,AI & ML,84,93,Kochi,B+
+69,Ishita Singh,23,Male,Data Analytics,60,72,Pune,B
+70,Dev Kaur,21,Male,Data Science,69,84,Bengaluru,B
+71,Ishita Gupta,24,Female,Data Science,93,95,Jaipur,B
+72,Diya Sharma,23,Female,Cyber Security,92,98,Bengaluru,B-
+73,Neha Malhotra,22,Male,Data Analytics,78,93,Kochi,C
+74,Dev Chopra,23,Female,Data Science,82,71,Chennai,B
+75,Nikhil Banerjee,18,Female,Data Analytics,96,74,Hyderabad,A
+76,Rahul Thakur,22,Male,AI & ML,88,76,Jaipur,B+
+77,Diya Kapoor,20,Male,Cloud Computing,98,93,Bengaluru,A+
+78,Tanvi Iyer,21,Male,AI & ML,92,80,Ahmedabad,C
+79,Nikhil Reddy,18,Female,Cloud Computing,76,75,Delhi,B+
+80,Simran Iyer,25,Female,AI & ML,54,78,Mumbai,B+
+81,Ishita Bose,23,Female,AI & ML,75,88,Jaipur,B+
+82,Aarav Gupta,21,Male,Cyber Security,75,91,Ahmedabad,C
+83,Diya Iyer,24,Female,Cyber Security,98,87,Kolkata,A+
+84,Manav Gupta,22,Male,Data Science,65,92,Chennai,B
+85,Priya Joshi,21,Male,Web Dev,96,96,Hyderabad,B-
+86,Karan Bose,25,Female,AI & ML,83,85,Chennai,B+
+87,Ananya Singh,18,Female,Web Dev,80,80,Jaipur,B-
+88,Isha Bose,20,Female,AI & ML,70,74,Jaipur,B
+89,Ishita Malhotra,19,Female,Web Dev,72,86,Hyderabad,B+
+90,Ishita Thakur,18,Male,Data Science,78,77,Pune,B
+91,Arjun Mehta,21,Female,AI & ML,73,79,Pune,B+
+92,Tanvi Thakur,22,Female,AI & ML,80,94,Jaipur,B
+93,Tanvi Chopra,22,Male,Data Analytics,60,85,Delhi,B
+94,Ananya Banerjee,22,Female,Cloud Computing,59,77,Ahmedabad,C
+95,Diya Joshi,22,Female,Cyber Security,54,97,Bengaluru,A
+96,Priya Kapoor,22,Female,Data Science,78,94,Mumbai,B
+97,Tanvi Banerjee,18,Female,Web Dev,60,78,Kochi,B
+98,Rahul Mehta,21,Female,Cyber Security,78,77,Pune,A
+99,Sneha Kapoor,18,Male,Cloud Computing,94,79,Bengaluru,A+
+100,Tanvi Verma,21,Male,AI & ML,65,81,Pune,A
